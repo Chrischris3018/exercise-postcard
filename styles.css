@@ -32,3 +32,7 @@ h1 {
 	text-align: center;
 	margin: auto;
 }
+button {
+	padding: 5px;
+	background-color: grey;
+}
